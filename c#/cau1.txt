@@ -1,0 +1,10 @@
+cau 1)
+Based on the chart above, analyze the problem from the perspective of a software developer, 
+choosing technology to meet user needs that increase or decrease over time while saving construction costs to build,
+ operating and maintain systems for businesses. Give at least 3 reasons for your choice.
+ 
+ Theo tôi chọn thi toi se dung phầm mềm : C# + cloud Azure hoặc aws
+ Lý do là : 
+    1)Khả năng mở rộng :cung cấp các dịch vụ điện toán đám mây linh hoạt, giúp tự do mở rộng hoặc giảm thiểu tài nguyên theo nhu cầu thực tế của doanh nghiệp.
+    2) Tiết kiệm chi phí xây dựng và duy trì hạ tầng: Không cần phải mua và duy trì máy chủ riêng lẻ, giúp tiết kiệm chi phí xây dựng và duy trì hạ tầng.
+    3) Hỗ trợ đa nền tảng : Hỗ trợ nhiều nền tảng và ngôn ngữ lập trình, bao gồm Windows, Linux, .NET, Java, Python, và nhiều ngôn ngữ khác.
